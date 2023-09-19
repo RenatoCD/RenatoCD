@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
-**RenatoCD/RenatoCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hola, mi nombre es Renato!**.
+
+**¿Quién soy?**
+Soy un científico de datos
+
+**¿Quién soy?**
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formación como científico de datos. 
+Me ecanta ayudar a las personas por medio del análisis de datos. 
 
 Here are some ideas to get you started:
 
