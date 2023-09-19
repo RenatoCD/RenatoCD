@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-####Hola, mi nombre es Renato!
+#Hola, mi nombre es Renato!
 ---
 
 **¿Quién soy?**
@@ -17,11 +17,11 @@ Me ecanta ayudar a las personas por medio del análisis de datos.
 Quiero crear soluciones innovadores a problemas de la vida diaria. 
 
 **¿Qué tecnologías uso?** 
-
+---
 * Python (Pandas, Numpy, Seaborn, Matoplotlib, Scikit-learn)
 * PowerBi
 * MySQL, PostgreSQL
 * Git
 * VisualStudio. 
 
-Actualmente estoy aprendiendo nltk
+Actualmente estoy aprendiendo nltk. 
