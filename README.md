@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Hola, mi nombre es Renato!
+Hola, mi nombre es Renato!
 ---
 
 **¿Quién soy?**
