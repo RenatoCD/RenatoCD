@@ -24,4 +24,4 @@ Quiero crear soluciones innovadores a problemas de la vida diaria.
 * Git
 * VisualStudio. 
 
-Actualmente estoy aprendiendo nltk. 
+Actualmente estoy aprendiendo nltk y R. 
