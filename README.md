@@ -18,7 +18,7 @@ Quiero crear soluciones innovadores a problemas de la vida diaria.
 
 **¿Qué tecnologías uso?** 
 ---
-* Python (Pandas, Numpy, Seaborn, Matoplotlib, Scikit-learn)
+* Python (Pandas, Numpy, Seaborn, Matoplotlib, Scikit-learn, Beautiful Soup)
 * PowerBi
 * MySQL, PostgreSQL
 * Git
